@@ -1,3 +1,2 @@
-SELECT list
-FROM CITY
-WHERE STATE = STATION;
+SELECT city, state
+FROM station;
